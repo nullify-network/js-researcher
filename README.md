@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:060606,60:0e1f16,100:1c4a32&text=JS%20Researcher&fontColor=5FA578&fontSize=58&fontAlignY=38&desc=JavaScript%20recon%20%C2%B7%20endpoint%20discovery&descAlignY=60&descColor=cfe8da" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:060606,60:141414,100:2e2e2e&text=JS%20Researcher&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=JavaScript%20recon%20%C2%B7%20endpoint%20discovery&descAlignY=60&descColor=bdbdbd" width="100%" />
 
-<a href="https://nullify.network"><img src="https://img.shields.io/badge/nullify.network-0a0a0a?style=for-the-badge&logo=firefox&logoColor=5FA578" /></a>
-<a href="https://t.me/nullifynetwork"><img src="https://img.shields.io/badge/@nullifynetwork-0a0a0a?style=for-the-badge&logo=telegram&logoColor=5FA578" /></a>
-<a href="https://github.com/nullify-network"><img src="https://img.shields.io/badge/nullify--network-0a0a0a?style=for-the-badge&logo=github&logoColor=5FA578" /></a>
-<img src="https://img.shields.io/badge/python-3.8+-1c4a32?style=for-the-badge&labelColor=0a0a0a&logo=python&logoColor=5FA578" />
+<a href="https://nullify.network"><img src="https://img.shields.io/badge/nullify.network-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ffffff" /></a>
+<a href="https://t.me/nullifynetwork"><img src="https://img.shields.io/badge/@nullifynetwork-0a0a0a?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>
+<a href="https://github.com/nullify-network"><img src="https://img.shields.io/badge/nullify--network-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
+<img src="https://img.shields.io/badge/python-3.8+-2e2e2e?style=for-the-badge&labelColor=0a0a0a&logo=python&logoColor=ffffff" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=5FA578&center=true&vCenter=true&width=620&lines=Crawl+JS+sources+from+any+target;Pull+hidden+endpoints+out+of+the+code;Map+the+attack+surface+before+attackers+do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Crawl+JS+sources+from+any+target;Pull+hidden+endpoints+out+of+the+code;Map+the+attack+surface+before+attackers+do" />
 
 </div>
 
@@ -84,9 +84,9 @@ python3 js-researcher.py https://app.example.com
 
 <div align="center">
 
-<a href="https://nullify.network"><img src="https://img.shields.io/badge/🚀_Start_at_nullify.network-1c4a32?style=for-the-badge&labelColor=0a0a0a" /></a>
-<a href="https://t.me/nullifynetwork"><img src="https://img.shields.io/badge/Talk_to_us-0a0a0a?style=for-the-badge&logo=telegram&logoColor=5FA578" /></a>
+<a href="https://nullify.network"><img src="https://img.shields.io/badge/🚀_Start_at_nullify.network-2e2e2e?style=for-the-badge&labelColor=0a0a0a" /></a>
+<a href="https://t.me/nullifynetwork"><img src="https://img.shields.io/badge/Talk_to_us-0a0a0a?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1c4a32,40:0e1f16,100:060606" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2e2e2e,40:141414,100:060606" width="100%" />
 
 </div>
